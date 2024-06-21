@@ -1,0 +1,6 @@
+
+train: D:\tank_rec\images/train
+val: D:\tank_rec\images/val
+
+nc: 4
+names: ['tank', 'building', 'tree', 'human']
